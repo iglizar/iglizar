@@ -2,8 +2,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iglizar&layout=compact&theme=react)](https://github.com/anuraghazra/github-readme-stats)
 ![iglizar GitHub Stats](https://github-readme-stats.vercel.app/api?username=iglizar&show_icons=true&count_private=true&theme=react)
-<!--
-**iglizar/iglizar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 ## ✒️ Skills
 <div>
@@ -16,6 +14,11 @@
   <img title="Express" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png">
   <img title="Bootstrap" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png">
 </div>
+
+<!--
+**iglizar/iglizar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
 
 Here are some ideas to get you started:
 
