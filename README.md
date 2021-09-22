@@ -3,7 +3,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iglizar&layout=compact&theme=react)](https://github.com/anuraghazra/github-readme-stats)
 ![iglizar GitHub Stats](https://github-readme-stats.vercel.app/api?username=iglizar&show_icons=true&count_private=true&theme=react)
 
-## ✒️ Skills
+## Skills
 <div>
   <img title="JavaScript" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
   <img title="HTML" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">
